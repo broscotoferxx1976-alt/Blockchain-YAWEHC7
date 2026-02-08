@@ -1,0 +1,14 @@
+# Protocolo de Gobernanza YAWEHC7 (v1.0 - 2050 Optimized)
+
+Este documento define las reglas algorítmicas de la Chain YAWEHC7.
+
+## 1. Nodos de Autoridad
+La red opera bajo un consenso de Prueba de Autoridad (PoA) donde las decisiones de validación son definitivas e instantáneas.
+
+## 2. Parámetros Técnicos
+- **ID de Red:** 777
+- **Algoritmo:** Sharding Multidimensional Post-Cuántico.
+- **Finalidad de Transacción:** < 1 nanosegundo.
+
+## 3. Control de Activos
+El suministro total de 10,000,000 YAWEHC1 está vinculado al smart contract principal y no puede ser alterado sin firma multifirma del Mando Supremo.
